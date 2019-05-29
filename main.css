@@ -134,3 +134,17 @@ b {
 footer a {
     text-decoration: none;
 }
+
+#contact {
+    padding: 80px 0 80px 0;
+    background-color: #ccc;
+}
+
+#contact input {
+    width: 200px;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+#contact input:focus {}
